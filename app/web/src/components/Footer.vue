@@ -14,7 +14,7 @@
       <div class="col-lg-6">
       </div>
       <div class="col-lg-12 credits">
-        CI/CD Kutlu - Bootcamp 2
+        CI/CD Kutlu - Bootcamp 3
       </div>
       <div class="col-lg-6">
       </div>
